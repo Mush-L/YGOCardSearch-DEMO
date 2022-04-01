@@ -1,0 +1,24 @@
+{
+  "mdeck": [
+      { "index": 1, "cname": "坏星坏兽 席兹齐埃鲁", "type": "CDmoc" },{ "index": 2, "cname": "电子天龙头", "type": "CDmoc" },{ "index": 3, "cname": "电子龙", "type": "CDmoc" },{ "index": 4, "cname": "电子龙", "type": "CDmoc" },{ "index": 5, "cname": "电子龙", "type": "CDmoc" },
+      { "index": 6, "cname": "银河战士", "type": "CDmoc" },{ "index": 7, "cname": "银河战士", "type": "CDmoc" },{ "index": 8, "cname": "灰流丽", "type": "CDmoc" },{ "index": 9, "cname": "灰流丽", "type": "CDmoc" },{ "index": 10, "cname": "灰流丽", "type": "CDmoc" },
+      { "index": 11, "cname": "电子龙核", "type": "CDmoc" },{ "index": 12, "cname": "电子龙核", "type": "CDmoc" },{ "index": 13, "cname": "电子龙核", "type": "CDmoc" },{ "index": 14, "cname": "电子龙·次代星", "type": "CDmoc" },{ "index": 15, "cname": "电子龙·次代星", "type": "CDmoc" },
+      { "index": 16, "cname": "电子龙芯", "type": "CDmoc" },{ "index": 17, "cname": "电子龙芯", "type": "CDmoc" },{ "index": 18, "cname": "电子龙芯", "type": "CDmoc" },{ "index": 19, "cname": "增殖的G", "type": "CDmoc" },{ "index": 20, "cname": "增殖的G", "type": "CDmoc" },
+      { "index": 21, "cname": "禁忌的一滴", "type": "CDmac" },{ "index": 22, "cname": "禁忌的一滴", "type": "CDmac" },{ "index": 23, "cname": "禁忌的一滴", "type": "CDmac" },{ "index": 24, "cname": "墓穴的指名者", "type": "CDmac" },{ "index": 25, "cname": "墓穴的指名者", "type": "CDmac" },
+      { "index": 26, "cname": "电子修理工厂", "type": "CDmac" },{ "index": 27, "cname": "机械复制术", "type": "CDmac" },{ "index": 28, "cname": "机械复制术", "type": "CDmac" },{ "index": 29, "cname": "机械复制术", "type": "CDmac" },{ "index": 30, "cname": "电子紧急呼救", "type": "CDmac" },
+      { "index": 31, "cname": "电子紧急呼救", "type": "CDmac" },{ "index": 32, "cname": "电子紧急呼救", "type": "CDmac" },{ "index": 33, "cname": "力量结合", "type": "CDmac" },{ "index": 34, "cname": "三战之才", "type": "CDmac" },{ "index": 35, "cname": "三战之才", "type": "CDmac" },
+      { "index": 36, "cname": "鹰身女妖的羽毛扫", "type": "CDmac" },{ "index": 37, "cname": "超载融合", "type": "CDmac" },{ "index": 38, "cname": "超载融合", "type": "CDmac" },{ "index": 39, "cname": "电子溢出", "type": "CDtrc" },{ "index": 40, "cname": "无限泡影", "type": "CDtrc" }
+    ],
+
+    "odeck": [
+      { "index": 1, "cname": "嵌合巨舰龙", "type": "CDOyc" },{ "index": 2, "cname": "嵌合要塞龙", "type": "CDOyc" },{ "index": 3, "cname": "凶饿毒融合龙", "type": "CDOyc" },{ "index": 4, "cname": "捕食植物 犀角龙", "type": "CDOyc" },{ "index": 5, "cname": "召唤兽 埃律西昂", "type": "CDOyc" },
+      { "index": 6, "cname": "嵌合狂暴龙", "type": "CDOyc" },{ "index": 7, "cname": "嵌合狂暴龙", "type": "CDOyc" },{ "index": 8, "cname": "召唤兽 梅尔卡巴", "type": "CDOyc" },{ "index": 9, "cname": "电子龙·无限", "type": "CDOxc" },{ "index": 10, "cname": "电子龙·新星", "type": "CDOxc" },
+      { "index": 11, "cname": "电子龙·新星", "type": "CDOxc" },{ "index": 12, "cname": "电子龙·凯旋", "type": "CDOlc" },{ "index": 13, "cname": "电子龙·凯旋", "type": "CDOlc" },{ "index": 14, "cname": "机壳守护神 路径灵", "type": "CDOlc" },{"index": 15, "cname": "转生炎兽 独角兔", "type": "CDOlc" }
+    ],
+
+    "sdeck": [
+      { "index": 1, "cname": "原始生命态 尼比鲁", "type":"CDmoc" },{ "index": 2, "cname": "恐龙摔跤手·潘克拉新角龙", "type":"CDmoc" },{ "index": 3, "cname": "恐龙摔跤手·潘克拉新角龙", "type":"CDmoc" },{ "index": 4, "cname": "增殖的G", "type":"CDmoc" },{ "index": 5, "cname": "超融合", "type":"CDmac" },
+      { "index": 6, "cname": "超融合", "type":"CDmac" },{ "index": 7, "cname": "电子修理工厂", "type":"CDmac" },{ "index": 8, "cname": "红色重启", "type":"CDtrc" },{ "index": 9, "cname": "红色重启", "type":"CDtrc" },{ "index": 10, "cname": "红色重启", "type":"CDtrc" },
+      { "index": 11, "cname": "闪电风暴", "type":"CDmac" },{ "index": 12, "cname": "闪电风暴", "type":"CDmac" },{ "index": 13, "cname": "闪电风暴", "type":"CDmac" },{ "index": 14, "cname": "天龙雪狱", "type":"CDtrc" },{ "index": 15, "cname": "天龙雪狱", "type":"CDtrc" }
+    ]
+}

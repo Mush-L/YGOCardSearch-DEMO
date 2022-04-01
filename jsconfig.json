@@ -1,0 +1,6 @@
+{
+    // 忽略Vetur can't find `tsconfig.json` or `jsconfig.json` 审查
+    "include": [
+        "./src/*"
+    ]
+}

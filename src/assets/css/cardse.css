@@ -1,0 +1,26 @@
+.sx {
+    line-height: 20px;
+}
+
+.md-h2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: "";
+}
+
+.clearfix:after {
+    clear: both
+}
+
+#cardSearch {
+    width: 80%;
+    height: 100%;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

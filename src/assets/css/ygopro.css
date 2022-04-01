@@ -1,0 +1,32 @@
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.col-md-12 {
+    float: left;
+    width: 100%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+#col-md-foot {
+    text-align: center;
+}
+
+.date {
+    font-weight: lighter;
+    font-size: 14px;
+    float: right;
+    padding-top: 20px;
+}
+
+a{
+    color: #42b983;
+}
